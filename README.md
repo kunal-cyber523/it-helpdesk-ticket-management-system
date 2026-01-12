@@ -16,6 +16,10 @@ A Python-based console application that simulates an IT Helpdesk Ticket Manageme
 - Date & Time module
 
 ## Folder Structure
+helpdesk-ticket-management-system/
+│
+├── ticket_system.py
+└── README.md
 ## How to Run
 1. Install Python 3 on your system
 2. Run the script `ticket_system.py`
